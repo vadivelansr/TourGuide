@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="tabText">#727272</color>
+    <color name="horizontal_rule">#EDEDED</color>
+    <color name="teal">#009688</color>
+    <color name="blue">#2196F3</color>
+    <color name="brown">#795548</color>
+</resources>

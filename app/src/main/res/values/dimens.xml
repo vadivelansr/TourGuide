@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="padding_small">10dp</dimen>
+    <dimen name="margin_medium">10dp</dimen>
+    <dimen name="card_elevation_small">4dp</dimen>
+    <dimen name="image">150dp</dimen>
+    <dimen name="image_land">300dp</dimen>
+    <dimen name="image_sw600">300dp</dimen>
+    <dimen name="image_sw600_land">450dp</dimen>
+</resources>

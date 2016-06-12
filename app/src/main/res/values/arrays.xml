@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pubs">
+        <item>@string/church_street_social</item>
+        <item>@string/skyye_lounge</item>
+        <item>@string/toit</item>
+    </string-array>
+    <string-array name="pubs_desc">
+        <item>@string/church_street_social_desc</item>
+        <item>@string/skyye_lounge_desc</item>
+        <item>@string/toit_desc</item>
+    </string-array>
+    <integer-array name="pubs_drawable">
+        <item>@drawable/church_street_social</item>
+        <item>@drawable/skyye_lounge</item>
+        <item>@drawable/toit</item>
+    </integer-array>
+    <string-array name="fun_spots">
+        <item>@string/snow_city</item>
+        <item>@string/wonderla</item>
+        <item>@string/innovative_film_city</item>
+    </string-array>
+    <string-array name="fun_spots_desc">
+        <item>@string/snow_city_desc</item>
+        <item>@string/wonderla_desc</item>
+        <item>@string/innovative_film_city_desc</item>
+    </string-array>
+    <integer-array name="fun_spots_drawable">
+        <item>@drawable/snow_city</item>
+        <item>@drawable/wonderla</item>
+        <item>@drawable/innovative_film_city</item>
+    </integer-array>
+    <string-array name="historical_sites">
+        <item>@string/iskcon</item>
+        <item>@string/lal_bagh</item>
+        <item>@string/cubbon_park</item>
+        <item>@string/tippu_sultan_palace</item>
+    </string-array>
+    <string-array name="historical_sites_desc">
+        <item>@string/iskcon_desc</item>
+        <item>@string/lal_bagh_desc</item>
+        <item>@string/cubbon_park_desc</item>
+        <item>@string/tippu_sultan_palace_desc</item>
+    </string-array>
+    <integer-array name="historical_sites_drawable">
+        <item>@drawable/iskon</item>
+        <item>@drawable/lal_bagh</item>
+        <item>@drawable/cubbon_park</item>
+        <item>@drawable/tippu_sultan_palace</item>
+    </integer-array>
+    <string-array name="shopping_malls">
+        <item>@string/ub_city</item>
+        <item>@string/phoenix_marketcity</item>
+        <item>@string/forum</item>
+        <item>@string/orion_mall</item>
+    </string-array>
+    <string-array name="shopping_malls_desc">
+        <item>@string/ub_city_desc</item>
+        <item>@string/phoenix_marketcity_desc</item>
+        <item>@string/forum_desc</item>
+        <item>@string/orion_mall_desc</item>
+    </string-array>
+    <integer-array name="shopping_malls_drawable">
+        <item>@drawable/ub_city</item>
+        <item>@drawable/phoenix_marketcity</item>
+        <item>@drawable/forum</item>
+        <item>@drawable/orion_mall</item>
+    </integer-array>
+    <integer-array name="colors">
+        <item>@color/colorPrimary</item>
+        <item>@color/blue</item>
+        <item>@color/teal</item>
+        <item>@color/brown</item>
+    </integer-array>
+</resources>

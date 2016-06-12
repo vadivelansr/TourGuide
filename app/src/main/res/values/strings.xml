@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Bengaluru Tour Guide</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="image">Image</string>
+    <string name="pubs">Pubs</string>
+    <string name="fun_spots">Fun Spots</string>
+    <string name="historical_sites">Historical Sites</string>
+    <string name="shopping_malls">Shopping Malls</string>
+    <string name="church_street_social">Church Street Social</string>
+    <string name="church_street_social_desc">Remember when being “social” meant that you actually MET people? Come rediscover the joy of being Social. Offline.\nWhat if your workspace looked more like a super cool café rather than a cubicle? What if your boardroom had a bar attached?</string>
+    <string name="skyye_lounge">Skyye Lounge</string>
+    <string name="skyye_lounge_desc">No matter what your liquor of choice, Skyye has an Uber selection for you to choose from. You will find super cocktails dreamt up by our Bar Team that we call SkyyeOvations. At Skyye, you will find top shelf choices in liquor from around the world: Single Malts, Scotch Whiskies, Vodka, Gin, Wines, Beer and Cocktails- whether classic favorites or Skyye specials. Skyye Signature cocktails are on offer in two exciting ranges – “Skyye–o-Tinis” and “Long Night Skyye” – which are made out of innovative combinations of liquors, liqueurs, herbs, fruits and juices. Pamper yourself with the perfect beverage and complete your experience at Skyye.</string>
+    <string name="toit">Toit</string>
+    <string name="toit_desc">Toit is a brew pub in Bangalore, brewing a revolutionary culture. A sweet little Bengaluru brewing culture that promises some bodacious brews, fabulous foods and a supreme brew-pub experience. You can find us on 100ft road, Indiranagar, doing our thing, passing on our passion for beer to others. Try everything twice. Learn, love, linger, stagger, slur, whatever.</string>
+    <string name="iskcon">ISKCON Temple</string>
+    <string name="iskcon_desc">Sri Radha Krishna Temple has deities of Radha and Krishna located at Rajajinagar, in North Bangalore, Karnataka, India. It is one of the largest ISKCON temples in the world. The temple is a huge cultural complex that was inaugurated in 1997 by Shankar Dayal Sharma.</string>
+    <string name="cubbon_park">Cubbon Park</string>
+    <string name="cubbon_park_desc">Cubbon Park is a landmark \'lung\' area of the Bangalore city, located within the heart of city in the Central Administrative Area. Tourists visiting this park in the city of Bangalore have nicknamed the city itself as \'Garden City\'. The importance of the park to the city\'s environment is best stated by two urban architects who have won the national competition to design \'Freedom Park\'.</string>
+    <string name="lal_bagh">Lalbagh Botanical Gardens</string>
+    <string name="lal_bagh_desc">Lalbagh or Lalbagh Botanical Gardens, meaning The Red Garden in English, is a well known botanical garden in southern Bangalore, India. The garden was originally commissioned by Hyder Ali, the ruler of Mysore, and later finished by his son Tipu Sultan. It has a famous glass house which hosts two annual flower shows (January 26th and August 15th). Lalbagh houses India\'s largest collection of tropical plants, has a lake, and is one of the main tourist attractions in Bangalore.</string>
+    <string name="tippu_sultan_palace">Tipu Sultan\'s Summer Palace</string>
+    <string name="tippu_sultan_palace_desc">Tipu Sultan\'s Summer Palace, in Bangalore, India, is an example of Indo-Islamic architecture and was the summer residence of the Mysorean ruler Tipu Sultan. Hyder Ali commenced its construction within the walls of the Bangalore Fort, and it was completed during the reign of Tipu Sultan in 1791. The structure was built entirely of teak and stands adorned with pillars, arches and balconies.</string>
+    <string name="orion_mall">Orion Mall</string>
+    <string name="orion_mall_desc">Orion Mall is a shopping Mall at Brigade Gateway Enclave in Bangalore, Karnataka, India developed by Brigade Group (Developer). Orion mall with a total mall area of 1.1 million sqft is the 3rd largest mall in Bangalore.</string>
+    <string name="phoenix_marketcity">Phoenix Marketcity</string>
+    <string name="phoenix_marketcity_desc">Phoenix Marketcity is a shopping mall developed by The Phoenix Mills Co. Ltd. located in Bengaluru, Karnataka, India. Spread across 1.4 million sqft the mall includes 1 million sqft of retail space which is the largest mall in Bangalore in terms of area, which houses 270+ stores representing an exhaustive mix of International and National premium brands, PVR multiplex and a food court.</string>
+    <string name="forum">The Forum</string>
+    <string name="forum_desc">The Forum is a shopping mall located on Hosur Road in Koramangala, Bangalore, Karnataka, India developed by Prestige Group. The Forum was Bangalore\'s first full-fledged mall with a multi-storey book store, 12 cinema halls and other entertainment facilities. The mall is an attraction for tourists. The shopping mall houses 72,000 m2 (780,000 sq ft) of shops over five levels. A major attraction at the mall is the multiplex, PVR.</string>
+    <string name="ub_city">UB City</string>
+    <string name="ub_city_desc">UB City is the biggest luxury commercial property project in Bangalore, India. Pioneered by the UB Group in Joint Venture with Prestige Group, it is built on 13 acres (53,000 m2) of land and hosts 1,000,000 sq ft (93,000 m2) of high-end commercial, retail and service apartment space. UB City has four towers namely, UB Tower (19 Floors), Comet (11 Floors), Canberra (17 Floors) and Concorde (19 Floors).</string>
+    <string name="snow_city">Snow City</string>
+    <string name="snow_city_desc">Enjoy snowy paradise in Bangalore at Snow City. It is a massive indoor snow theme park, maintained below -5 degree Celsius. The snow is made out of drinking water, which is eco friendly and edible too. So experience sub-zero temperatures at Snow City today!</string>
+    <string name="wonderla">Wonderla</string>
+    <string name="wonderla_desc">Wonderla is a leading amusement park near Bidadi, 28 kilometres (17 mi) from Bangalore. Wonderla has 55 land and water-based rides. The park features a wide variety of attractions including some rides, water rides, a musical fountain and laser shows, a virtual reality show. Wonderla Bangalore has a full-fledged dance floor with a twist: electronically controlled rain showers. Wonderla also has attractions specially designed for children, and these are gentle yet unusual like a kiddies free fall ride.</string>
+    <string name="innovative_film_city">Innovative Film City</string>
+    <string name="innovative_film_city_desc">Innovative Film City is an exciting amusement park located on Mysore Road. Visitors would probably spend the whole day exploring all the exciting activities and rides the park has to provide. Offering excitement for all ages, you can enjoy a number of interesting attractions at this super innovative destination designed to give you a whole new experience.</string>
+
+</resources>
